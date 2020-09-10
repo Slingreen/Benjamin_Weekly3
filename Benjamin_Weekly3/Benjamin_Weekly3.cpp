@@ -22,7 +22,7 @@ int eHigh = 5,
     mHigh = 10, 
     hHigh = 30;
 
-// A main code with a switch to let the user choose which task to use, a sort of main menu
+// A main code with a switch to let the user choose difficulty to use, a sort of main menu
 int main()
 {
     char command;
